@@ -10,7 +10,7 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaolucasPM&langs_count=8&theme=dracula)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaolucasPM&show_icons=true&theme=dracula)
 ## Tecnologias que eu uso no meu dia 
 
 <div style="display: inline_block"> <br/>
