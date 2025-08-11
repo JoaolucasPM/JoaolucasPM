@@ -2,7 +2,7 @@
 
 #### Sobre Mim
 - 💻 Trabalho como Analista de Dados, no desenvolvimento de dashboard, usando Python, oracle
-- 👨‍🎓 Academico de Sistema de informação - 6/8
+- 👨‍🎓 Academico de Sistema de informação - 7/8
 - 🧠 Estudando  SQL, Python, React e Git
 
 ### Minhas redes
